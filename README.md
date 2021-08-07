@@ -1,5 +1,8 @@
 # 2021-google-ml-bootcamp
-### 1. Deep Learning Specialization Course
+> [**구글머신러닝부트캠프**](https://events.withgoogle.com/google-developers-mlb-kr-2021/) (2021.08.06~current)
+> 
+
+### 1. Deep Learning Specialization Course 
  > | Week | 시작일 | 마감일 | 강좌 | 강의 계획 | 제출 | 
  > | -- | --- | --- | -- | -----  | -- |
  > | 1 | 2021/08/06 | 2021/08/16 | [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Introduction to deep learning |  |
