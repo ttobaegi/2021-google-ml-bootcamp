@@ -1,6 +1,7 @@
 # 2021-google-ml-bootcamp
 ### Deep Learning Specialization Course
 
+과제 제출 월요일 오전 9시까지
 ### 스케쥴
 | Week | 시작일 | 마감일 | 강좌 | 강의 계획 | 제출 | 
 | -- | --- | --- | -- | -----  | ----------- | 
