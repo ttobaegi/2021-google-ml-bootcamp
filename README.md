@@ -4,7 +4,7 @@
 과제 제출 월요일 오전 9시까지
 ### 스케쥴
 | Week | 시작일 | 마감일 | 강좌 | 강의 계획 | 제출 | 
-| -- | --- | --- | -- | -----  | ----------- | 
+| -- | --- | --- | -- | -----  | -- |
 | 1 | 2021/08/06 | 2021/08/16 | [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Introduction to deep learning |  |
 | 1 | 2021/08/06 | 2021/08/16 | [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Neural Networks Basics |  |
 | 2 | 2021/08/16 | 2021/08/23 | [1st course: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | Shallow neural networks |  |
