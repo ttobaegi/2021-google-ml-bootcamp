@@ -1,9 +1,9 @@
 # 2021-google-ml-bootcamp
-> [**구글머신러닝부트캠프**](https://events.withgoogle.com/google-developers-mlb-kr-2021/) (2021.08.06~current)
-> - ML Course & Weekly Mission
-> - ML Certificate
-> - Kaggle Project 
-> - Weekly Meetup
+[**구글머신러닝부트캠프**](https://events.withgoogle.com/google-developers-mlb-kr-2021/) (2021.08.06~current)
+> 1. **ML Course & Weekly Mission**
+> 1. **ML Certificate**
+> 1. **Kaggle Project**
+> 1. **Weekly Meetup**
 
 
 ### 1. Deep Learning Specialization Course 
