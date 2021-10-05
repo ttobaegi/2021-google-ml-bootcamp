@@ -10,6 +10,7 @@
 </br>
 </br> 
 
+<a name='1'></a>
 ### 1. Deep Learning Specialization Course 
 | Week | 시작일 | 마감일 | 강좌 |
 | :--:| --- | --- | -- |
@@ -22,12 +23,6 @@
 | **7** | 2021/09/20 | 2021/09/27 | [4th course: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) </br> ▪ Special applications: Face recognition & Neural style transfer </br> ▪ Recurrent Neural Networks |
 | **8** | 2021/09/27 | 2021/10/04 | [5th course: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) </br> ▪ Natural Language Processing & Word Embeddings </br> ▪ Sequence models & Attention mechanism </br> ▪ Transformers | 
  
-</br>
-
-<a name='1'></a>
-> #### Course Certificate 
-> ![image](https://user-images.githubusercontent.com/79742748/136036970-946ff6c5-f72c-46e7-8e0d-6f0ce272c244.png)
-
 </br>
 </br>
  
