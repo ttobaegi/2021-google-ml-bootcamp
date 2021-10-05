@@ -1,10 +1,14 @@
 # 2021-google-ml-bootcamp
+</br>
+
 [**구글머신러닝부트캠프**](https://events.withgoogle.com/google-developers-mlb-kr-2021/) (2021.08.06~current)
 > 1. ML Course & Weekly Mission
 > 1. ML Certificate
 > 1. Kaggle Project
 > 1. Weekly Meetup
 
+</br>
+</br>
 
 ### 1. Deep Learning Specialization Course 
 | Week | 시작일 | 마감일 | 강좌 | 강의 계획 | Mission | 
@@ -27,7 +31,8 @@
 | **8** | 2021/09/27 | 2021/10/04 | [5th course: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | Sequence models & Attention mechanism | 
  
  
- </br>
+</br>
+</br>
  
 ### 2. Certificate
 > TensorFlow certification
@@ -36,6 +41,7 @@
 > 
 > GCP Professional ML Engineer certification  
 
- </br>
+</br>
+</br>
  
 ### 3. Kaggle Project
