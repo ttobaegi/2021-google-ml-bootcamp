@@ -1,4 +1,4 @@
-# 2021-google-ml-bootcamp
+# 2021 Google ML Bootcamp
 </br>
 
 [**구글머신러닝부트캠프**](https://events.withgoogle.com/google-developers-mlb-kr-2021/) (2021.08.06~current)
