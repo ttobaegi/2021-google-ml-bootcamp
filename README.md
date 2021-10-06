@@ -27,7 +27,7 @@
 </br>
  
 ### 2. Certificate
-> TensorFlow certification
+> [TensorFlow certification](https://github.com/ttobaegi/Tensorflow-developers-certificate)
 > 
 > GCP Professional Data Engineer certification
 > 
